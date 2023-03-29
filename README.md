@@ -1,4 +1,4 @@
-## <i><b>Olá, eu sou PedroGSDL!</b></i>
+## <i><b>Hey, iam PedroGSDL!</b></i>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGSDL&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGSDL&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
