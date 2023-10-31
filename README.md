@@ -8,7 +8,7 @@
   <img align="center" alt="PedroGSDL-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="PedroGSDL-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
- <img align="right" alt="Dino" height="150" style="border-radius:50px;" img src="https://user-images.githubusercontent.com/116593548/222244532-dfbbc9f6-14ab-462b-b86a-975918273bf6.gif">
+ <img align="right" alt="Dino" height="150" style="border-radius:50px;" img src="https://user-images.githubusercontent.com/116593548/222244532-dfbbc9f6-14ab-462b-b86a-975918273bf6.gif" autoplay loop>
 </div>
  
 <div> 
