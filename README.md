@@ -6,7 +6,7 @@
     <img align="center" alt="PedroGSDL-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
        <img align="center" alt="PedroGSDL-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
          <img align="center" alt="PedroGSDL-C#" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-          <img align="center" alt="PedroGSDL-html5" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-          original.svg">
+          <img align="center" alt="PedroGSDL-html5" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-       original.svg">
             <img align="center" alt="PedroGSDL-css3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
               <img align="center" alt="PedroGSDL-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="PedroGSDL-MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
