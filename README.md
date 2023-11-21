@@ -13,11 +13,10 @@
   <img align="center" alt="PedroGSDL-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="right" alt="gif" height="150" style="border-radius: 50px;" img src="https://user-images.githubusercontent.com/116593548/222244532-dfbbc9f6-14ab-462b-b86a-975918273bf6.gif" autoplay loop>
 </div>
-<br>
-<div> 
+<div style="display: inline_block">
 <a href = "mailto:pedrogabrielsdlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-<a href="https://instagram.com/pqpredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
+<a href="https://instagram.com/pqpredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/pedro-gabriel-santos-de-lima-8b9886170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
