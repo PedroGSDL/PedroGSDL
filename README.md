@@ -9,9 +9,11 @@
   <img align="center" alt="PedroGSDL-html5" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroGSDL-css3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PedroGSDL-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PedroGSDL-MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">               <img align="center" alt="PedroGSDL-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="PedroGSDL-MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">               
+  <img align="center" alt="PedroGSDL-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="right" alt="gif" height="150" style="border-radius: 50px;" img src="https://user-images.githubusercontent.com/116593548/222244532-dfbbc9f6-14ab-462b-b86a-975918273bf6.gif" autoplay loop>
 </div>
+<br>
 <div> 
 <a href = "mailto:pedrogabrielsdlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 <a href="https://instagram.com/pqpredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
