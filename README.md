@@ -1,6 +1,6 @@
 ## <i><b>Hey, i'm PedroGSDL!</b></i>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGSDL&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGSDL&layout=compact&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGSDL&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGSDL&layout=compact&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="PedroGSDL-JAVA" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="PedroGSDL-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -12,12 +12,20 @@
   <img align="center" alt="PedroGSDL-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   
 </div>
-<div style="display: inline_block">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="mailto:pedrogabrielsdlima@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://linkedin.com/in/pedro-gabriel-santos-de-lima-8b9886170">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrogabrielsdlima@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pqpredo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-gabriel-santos-de-lima-8b9886170)
+<img src="https://github.com/PedroGSDL/PedroGSDL/blob/main/capoo-waiting.gif" alt="gif" height="100" align="right" style="margin-left: 20px; border-radius: 50px;">
+
 </div>
+
+<br>
+<br>
 <h1>Who am I?</h1>
 
 <div style="display: inline-block; width: 60%; vertical-align: top;">
@@ -25,7 +33,7 @@
 </div>
 
 <div style="display: inline-block; width: 35%; vertical-align: top;">
-    <img align="right" alt="gif" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/116593548/222244532-dfbbc9f6-14ab-462b-b86a-975918273bf6.gif">
+    <img align="left" alt="gif" height="100" style="border-radius: 50px;" src="https://github.com/PedroGSDL/PedroGSDL/blob/main/capoo-waiting.gif">
 </div>
 
 <!---
